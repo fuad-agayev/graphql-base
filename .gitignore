@@ -1,0 +1,10 @@
+
+.env
+
+# server den glen hatalari githuba gondermez
+*.log
+# Yanlis paket yuklediyim zaman onu githuba gondermz
+npm-debug.log* 
+logs/
+.vscode/
+node_modules/
